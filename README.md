@@ -2,7 +2,7 @@
 
 <br/>
 
-Hi there 👋 I`am Miguel Angel Beltran B.
+Hi there 👋 I'm Miguel Angel Beltran B.
 
 Full Starck Developer Web (soy Henry)en proceso, Maestría en Desarrollo de Videojuegos. Diplomados en programación, desarrollo de Software y de aplicaciones móviles (Misión Tic), Maestro en Artes visuales.
 
@@ -23,17 +23,3 @@ Programas de la Suite de Adobe.
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelio01&theme=light" alt="carotobarj" />
 </p>
-<!--
-**Miguelio01/Miguelio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
