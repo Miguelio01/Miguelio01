@@ -4,7 +4,7 @@
 
 Hi there 👋 I'm Miguel Angel Beltran B.
 
-Full Starck Developer Web (soy Henry)en proceso, Maestría en Desarrollo de Videojuegos. Diplomados en programación, desarrollo de Software y de aplicaciones móviles (Misión Tic), Maestro en Artes visuales.
+Full Stack Developer Web (soy Henry)en proceso, Maestría en Desarrollo de Videojuegos. Diplomados en programación, desarrollo de Software y de aplicaciones móviles (Misión Tic), Maestro en Artes visuales.
 
 Lenguajes de Programación como Python, Java, HTML, CSS, JavaScript, para Base de datos SQLite y Visual Studio Code como programa Base; manejo de Flutter para aplicaciones multiplataforma.
 
