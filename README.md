@@ -41,7 +41,7 @@ Programas de la Suite de Adobe.
 
 ## 📊 Take a look in my stats
 
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelio01)](https://github.com/anuraghazra/github-readme-stats)
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelio01)](https://github.com/miguelio01/github-readme-stats)
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelio01&theme=light" alt="carotobarj" />
