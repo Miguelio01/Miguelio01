@@ -2,7 +2,7 @@
 
 <br/>
 
-Hi there 👋 I'm Miguel Angel Beltran B.
+Hola 👋 soy Miguel Angel Beltran B.
 
 Full Stack Developer Web (soy Henry)en proceso, Maestría en Desarrollo de Videojuegos. Diplomados en programación, desarrollo de Software y de aplicaciones móviles (Misión Tic), Maestro en Artes visuales.
 
