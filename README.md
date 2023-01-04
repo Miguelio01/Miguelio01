@@ -47,6 +47,6 @@ Programas de la Suite de Adobe.
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelio01&theme=light" alt="miguelio01" />
 </p>
 
-[![outlook](https://img.shields.io/badge/-outlook-000000?style=flat&logo=outlook)](miguel.angel.i@live.com)
+[![outlook](https://img.shields.io/badge/-outlook-000000?style=flat&logo=outlook)](https://outlook.live.com/miguel.angel.i@live.com/0/inbox)
 [![linkedin](https://img.shields.io/badge/-linkedin-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/miguel-angel-beltran-90/)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-000000?style=flat&logo=whatsapp)](https://wa.me/573042450082)
